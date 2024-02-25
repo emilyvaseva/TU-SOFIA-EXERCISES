@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\bin\Debug\net6.0\Welcome.exe
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\bin\Debug\net6.0\Welcome.deps.json
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\bin\Debug\net6.0\Welcome.runtimeconfig.json
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\bin\Debug\net6.0\Welcome.dll
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\bin\Debug\net6.0\Welcome.pdb
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\obj\Debug\net6.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfo.cs
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\obj\Debug\net6.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\obj\Debug\net6.0\Welcome.sourcelink.json
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\obj\Debug\net6.0\Welcome.dll
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\obj\Debug\net6.0\refint\Welcome.dll
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\obj\Debug\net6.0\Welcome.pdb
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\obj\Debug\net6.0\Welcome.genruntimeconfig.cache
+C:\Users\HP\source\repos\TU-SOFIA-EXERCISES\PS_Emily\Welcome\obj\Debug\net6.0\ref\Welcome.dll
