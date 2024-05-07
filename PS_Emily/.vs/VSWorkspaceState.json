@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Welcome",
-    "\\Welcome\\bin",
-    "\\Welcome\\Model",
-    "\\Welcome\\Others"
+    "\\PS_01_Emily\\Welcome\\Model",
+    "\\PS_02_Emily",
+    "\\PS_02_Emily\\WelcomeExtended"
   ],
-  "SelectedNode": "\\Welcome\\Program.cs",
+  "SelectedNode": "\\PS_02_Emily\\WelcomeExtended\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
